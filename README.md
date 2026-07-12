@@ -7,4 +7,4 @@
 # Pipline development
 # Semantic Model and Power Bi
 
-<img src="images.png">
+<img src="Image.png">
