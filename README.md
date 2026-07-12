@@ -1,10 +1,10 @@
 # Understand-medallion-lakehouse-architecture-for-Fabric-with-OneLake
-# Project OverView
-# Setup and Config table
-# File to raw and Logging Framework
-# Raw to clean and DQ Framework
-# Clean to prepare
-# Pipline development
-# Semantic Model and Power Bi
+# 1.Project OverView
+# 2.Setup and Config table
+# 3.File to raw and Logging Framework
+# 4.Raw to clean and DQ Framework
+# 5.Clean to prepare
+# 6.Pipline development
+# 7.Semantic Model and Power Bi
 
-<img src="Image.png">
+## <img src="Image.png">
